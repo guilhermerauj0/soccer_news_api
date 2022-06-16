@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Brasileiro Feminino da Série A3",
     "description": "Estreia em edição inédita com clássicos na primeira fase",
-    "image": "https://s2.glbimg.com/f_zJOpmJ6focuNla6b5Io6xYnSE=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/2/cSSB0KQkyMYTOWZELsHQ/sport.jpg",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
     "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml"
   },
   {
     "id": 2,
     "title": "Organização da Brasil Ladies Cup",
     "description": "Negociação para ter primeira equipe da Europa no torneio",
-    "image": "https://s2.glbimg.com/F5GmwDW2i6nUsGLgyETcnd3W_hs=/0x0:640x360/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/Z/D/qk04kOTe2nDUPsTIGV4Q/spcampeao.jpg",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/2.jpg",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/08/organizacao-da-brasil-ladies-cup-negocia-para-ter-primeira-equipe-da-europa-no-torneio.ghtml"
   },
   {
     "id": 3,
     "title": "Intercontinental Sub-20",
     "description": "Conmebol e Uefa anunciam versão feminina da Finalíssima e Intercontinental Sub-20",
-    "image": "https://s2.glbimg.com/KOwt2b-Ix2mFa3-2EaRMiPosqSk=/0x0:1920x750/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/2/s/07SjltQnCMO6MORfX3Lw/libertadoressub20-22.jpg",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/3.jpg",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/06/02/conmebol-e-uefa-anunciam-versao-feminina-da-finalissima-e-intercontinental-sub-20.ghtml"
   },
   {
     "id": 4,
     "title": "Renovação de contrato de atacante holandesa",
     "description": "Vivianne Miedema renova contrato com o Arsenal feminino e encerra especulações sobre transferência",
-    "image": "https://s2.glbimg.com/0IFFIjHfabTLrR55izUR9evjkQg=/0x0:2033x2033/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/2/g/v8123EQnGLEDJkSdBaZQ/miedema.jfif",
+    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/4.jpg",
     "link": "https://ge.globo.com/futebol/futebol-internacional/futebol-ingles/noticia/2022/05/20/vivianne-miedema-renova-contrato-com-o-arsenal-feminino-e-encerra-especulacoes-de-transferencia.ghtml"
   },
 ]
